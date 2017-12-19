@@ -11,5 +11,9 @@
 <body>
 
 	<h1>teste</h1>
+	<div>
+	</div>
+	
+	<h1>rodapé</h1>
 </body>
 </html>
