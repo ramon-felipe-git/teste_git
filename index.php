@@ -3,7 +3,7 @@
 
 <html>
 <head>
-	<title>Git/GitHub</title>
+	<title>Git/GitHub ...</title>
 </head>
 <link rel="icon" type="image/png" href="./img/favicon.png">
 <link rel="stylesheet" type="text/css" href="./css/style.css">
